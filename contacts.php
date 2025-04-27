@@ -149,7 +149,7 @@ if (isset($_POST['delete'])) {
 
 <?php else: ?>
 
-    <h2>Select an action from the mene.</h2>
+    <h2>Select an action from the menu.</h2>
 
 <?php endif; ?>
 
